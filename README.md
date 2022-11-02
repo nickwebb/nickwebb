@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nickwebb
-- 👀 I’m interested in working on exciting projects that have the biggest total amount of usefulness to others
-- 🌱 I’m currently learning JavaScript with a Wes Bos course. Before that I learnt Python and also went through the Fast.ai course
+- 👀 I want to be maximally useful to others
+- 🌱 I’m learning JavaScript with a Wes Bos course. Previously I learn Python and did the FastAI Course.
 - 💞️ I’m looking to work with others on interesting projects that really help a large number of other people
 - 📫 How to reach me -> twitter.com/nickwebb
 
