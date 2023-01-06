@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nickwebb
 - 👀 I want to be maximally useful to others
-- 🌱 I’m learning JavaScript with a Wes Bos course. Previously I learn Python and did the FastAI Course.
+- 🌱 I’m learning JavaScript & React with Wes Bos courses. Previously I learn Python and did the FastAI Course.
 - 💞️ I’m looking to work with others on interesting projects that really help a large number of other people
 - 📫 How to reach me -> twitter.com/nickwebb
 
