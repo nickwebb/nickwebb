@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @nickwebb
-- 📫 How to reach me -> twitter.com/nickwebb
+- 👋 Hi, I’m @nickwebb, i'm an ai engineer at Beam
+- 📫 How to reach me -> x.com/nickwebb
 
 <!---
 nickwebb/nickwebb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
