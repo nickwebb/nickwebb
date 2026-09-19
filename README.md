@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nickwebb, i'm an ai engineer at Beam
+- 👋 Hi, I’m @nickwebb, i'm an ai engineer @Beam
 - 📫 How to reach me -> x.com/nickwebb
 
 <!---
